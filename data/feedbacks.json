@@ -1,0 +1,35 @@
+[
+  {
+    "id": "fb-1",
+    "name": "Lê Minh Tuấn",
+    "email": "tuan.le@glowbeauty.vn",
+    "company": "Glow Beauty Cosmetics",
+    "rating": 5,
+    "projectType": "E-Commerce Platform",
+    "message": "Hưng Lê làm việc cực kỳ chuyên nghiệp và tận tâm. Giao diện trang e-commerce rất sang trọng, các thao tác mượt mà và giúp tăng tỷ lệ chuyển đổi của shop lên tới 35% ngay trong tháng đầu chạy thử nghiệm. Sẽ chắc chắn tiếp tục hợp tác với bạn trong dự án tiếp theo!",
+    "createdAt": "2026-06-22T16:45:48.741Z",
+    "status": "completed"
+  },
+  {
+    "id": "fb-2",
+    "name": "Nguyễn Tiến Đạt",
+    "email": "dat.nguyen@apexmetrics.io",
+    "company": "Apex Logistics & Tech",
+    "rating": 5,
+    "projectType": "SaaS & Enterprise Data Portal",
+    "message": "Hệ thống báo cáo Dashboard trực quan hóa dữ liệu được viết bằng SVG vô cùng mượt mà. Thời gian tải dữ liệu phức tạp chỉ mất chưa đầy 1 giây. Sự chuyên nghiệp trong kiến trúc luồng dữ liệu và tư vấn giải pháp của Hưng là điều chúng tôi đánh giá cao nhất.",
+    "createdAt": "2026-06-25T16:45:48.741Z",
+    "status": "contacted"
+  },
+  {
+    "id": "fb-3",
+    "name": "Trần Mai Lan",
+    "email": "lan.tran@workpulse.com",
+    "company": "WorkPulse Teamwork",
+    "rating": 5,
+    "projectType": "Productivity & Project Management Tool",
+    "message": "Bảng Kanban TaskFlow hoạt động tuyệt vời, đội ngũ nhân sự của chúng tôi học cách sử dụng vô cùng nhanh chóng nhờ thiết kế tối giản, trực quan. Khả năng drag-drop tức thời mượt mà hơn nhiều so với các giải pháp cồng kềnh trước đây.",
+    "createdAt": "2026-06-27T04:45:48.741Z",
+    "status": "pending"
+  }
+]
