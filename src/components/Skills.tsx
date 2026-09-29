@@ -58,7 +58,7 @@ export default function Skills() {
   };
 
   return (
-    <section id="skills-section" className="py-20 border-b border-slate-200 bg-slate-50">
+    <section id="skills-section" className="py-20 border-b border-slate-200 bg-slate-50 scroll-mt-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Section Header */}

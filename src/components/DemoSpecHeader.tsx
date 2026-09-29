@@ -14,7 +14,7 @@ export default function DemoSpecHeader({ project }: DemoSpecHeaderProps) {
   };
 
   return (
-    <div className="z-50 bg-white border-b border-slate-200 text-slate-800 shadow-sm transition-all duration-300">
+    <div className="sticky top-0 z-50 bg-white border-b border-slate-200 text-slate-800 shadow-sm transition-all duration-300">
       <div className="max-w-7xl mx-auto px-4 py-3 flex flex-wrap items-center justify-between gap-4">
         {/* Left: Button to go back */}
         <button

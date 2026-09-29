@@ -140,7 +140,7 @@ export default function App() {
 
   // 2. ROOT PORTFOLIO RENDER LAYOUT
   return (
-    <div className="min-h-screen flex flex-col bg-[#0c0f17] text-slate-100 overflow-x-hidden selection:bg-indigo-600 selection:text-white">
+    <div className="min-h-screen flex flex-col bg-[#0c0f17] text-slate-100 overflow-x-clip selection:bg-indigo-600 selection:text-white">
       {/* Fixed top Navbar */}
       <Navbar 
         activeSection={activeSection} 
@@ -154,7 +154,7 @@ export default function App() {
         <Hero onLearnMore={navigateToSection} />
 
         {/* Detailed introductory About segment (About Section) */}
-        <section id="about-section" className="py-20 border-b border-slate-200 bg-white shadow-xs">
+        <section id="about-section" className="py-20 border-b border-slate-200 bg-white shadow-xs scroll-mt-16">
           <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               {/* Picture/Aesthetic Representation */}

@@ -214,6 +214,6 @@ export const en = {
     service4: 'Cloud / Node.js Fullstack Server Management',
     contactTitle: 'Working Hours & Contact',
     hotline: '0984-870-920 (24/7 Support Hotline)',
-    meetup: 'Always available for in-person discussions on web design solutions in Ho Chi Minh City.',
+    meetup: 'Always available for in-person discussions on web design solutions in Hanoi City.',
   },
 };

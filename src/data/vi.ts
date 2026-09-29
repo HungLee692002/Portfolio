@@ -214,6 +214,6 @@ export const vi = {
     service4: 'Quản trị hệ thống máy chủ Cloud / Node Fullstack',
     contactTitle: 'Giờ làm việc & Liên lạc',
     hotline: '0984-870-920 (Hotline hỗ trợ 24/7)',
-    meetup: 'Luôn sẵn sàng gặp gỡ trực tiếp trao đổi giải pháp thiết kế web tại TP. Hồ Chí Minh.',
+    meetup: 'Luôn sẵn sàng gặp gỡ trực tiếp trao đổi giải pháp thiết kế web tại TP. Hà Nội.',
   },
 };

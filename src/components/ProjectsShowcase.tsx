@@ -20,7 +20,7 @@ export default function ProjectsShowcase() {
   };
 
   return (
-    <section id="projects-section" className="py-20 border-b border-slate-200 bg-white">
+    <section id="projects-section" className="py-20 border-b border-slate-200 bg-white scroll-mt-16">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
 
         {/* Header */}
